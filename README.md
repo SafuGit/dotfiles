@@ -19,12 +19,12 @@ picom
 rofi
 
 ## Keybinds
-1.SUPER + R = Rofi Launcher
-2.SUPER + W = Kill/Close Window
-3.SUPER + Ctrl + R = Restart Qtile
-4.SUPER + U = Shrink Window Size
-5.SUPER + Y = Increase Window Size
-6.SUPER + M = Maximize Window
-7.F11 = Toggle Fullscreen
-8.SUPER + Ctrl + S = Shutdown Qtile
-9.Print = Screenshot
+-SUPER + R = Rofi Launcher
+-SUPER + W = Kill/Close Window
+-SUPER + Ctrl + R = Restart Qtile
+-SUPER + U = Shrink Window Size
+-SUPER + Y = Increase Window Size
+-SUPER + M = Maximize Window
+-F11 = Toggle Fullscreen
+-SUPER + Ctrl + S = Shutdown Qtile
+-Print = Screenshot
