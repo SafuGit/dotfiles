@@ -4,27 +4,27 @@
 My personal Qtile + Picom dotfiles 
 
 ## Requirements
-brightnessctl (optional)
-otf-hasklig-nerd
-pacman-contrib
-pamixer
-playerctl (optional)
-python-dbus-next
-python-psutil
-qtile-extras
-qtile 
-ttf-nerd-fonts-symbols-mono
-alacritty
-picom
-rofi
+brightnessctl (optional) <br/>
+otf-hasklig-nerd <br/>
+pacman-contrib <br/>
+pamixer <br/>
+playerctl (optional) <br/>
+python-dbus-next <br/>
+python-psutil <br/>
+qtile-extras <br/>
+qtile <br/>
+ttf-nerd-fonts-symbols-mono <br/>
+alacritty <br/>
+picom <br/>
+rofi <br/>
 
 ## Keybinds
--SUPER + R = Rofi Launcher
--SUPER + W = Kill/Close Window
--SUPER + Ctrl + R = Restart Qtile
--SUPER + U = Shrink Window Size
--SUPER + Y = Increase Window Size
--SUPER + M = Maximize Window
--F11 = Toggle Fullscreen
--SUPER + Ctrl + S = Shutdown Qtile
--Print = Screenshot
+SUPER + R = Rofi Launcher <br/>
+SUPER + W = Kill/Close Window <br/>
+SUPER + Ctrl + R = Restart Qtile <br/>
+SUPER + U = Shrink Window Size <br/>
+SUPER + Y = Increase Window Size <br/>
+SUPER + M = Maximize Window <br/>
+F11 = Toggle Fullscreen <br/>
+SUPER + Ctrl + S = Shutdown Qtile <br/>
+Print = Screenshot <br/>
