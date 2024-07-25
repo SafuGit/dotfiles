@@ -17,6 +17,9 @@ ttf-nerd-fonts-symbols-mono <br/>
 alacritty <br/>
 picom <br/>
 rofi <br/>
+qt5ct (optional)<br/>
+lxappearance (optional)<br/>
+kvantum (optional) <br/>
 
 ## Keybinds
 SUPER + R = Rofi Launcher <br/>
