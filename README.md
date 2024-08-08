@@ -1,6 +1,7 @@
 # dotfiles
- 
-![unixporn_actual_final](https://github.com/user-attachments/assets/7e2fa792-d5bc-4d7d-8e59-12e9095c11bb)
+
+[![Free Palestine](https://github.com/alvii147/hinds-banner/blob/main/github/free-palestine-classic.svg)](https://www.pcrf.net/)
+![unixporn_actual_final](https://github.com/user-attachments/assets/7e2fa792-d5bc-4d7d-8e59-12e9095c11bb) 
 My personal Qtile + Picom dotfiles 
 
 ## Requirements
